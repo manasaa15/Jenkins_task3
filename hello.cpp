@@ -2,7 +2,8 @@
 
 int main() {
     // Write C++ code here
-    std::cout << "Try programiz.pro";
+    std::cout << "Heyyy";
+    std::cout << "Hello this is manasa";
 
     return 0;
 }
